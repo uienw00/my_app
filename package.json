@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/uienw00/my_app#readme",
   "dependencies": {
-    "express": "^4.13.3"
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.11"
   }
 }
