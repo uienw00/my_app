@@ -1,7 +1,6 @@
 {
   "name": "myapp",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,8 +16,12 @@
   },
   "homepage": "https://github.com/uienw00/my_app#readme",
   "dependencies": {
+    "body-parser": "^1.14.1",
     "ejs": "^2.3.4",
     "express": "^4.13.3",
-    "mongoose": "^4.1.11"
-  }
+    "method-override": "^2.3.5",
+    "mongoose": "^4.2.2"
+  },
+  "devDependencies": {},
+  "description": ""
 }
